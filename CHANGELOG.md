@@ -1,3 +1,7 @@
+## 10.1.1
+
+- Adding children to types to support React 18
+
 ## 10.1.0
 
 - Classes are now compiled in loose mode, which should improve runtime performance.
@@ -142,9 +146,11 @@
 - Clear initial timeout when unmounting component.
 
 ## 5.0.2
+
 - Revert ES6 typescript definition.
 
 ## 5.0.1
+
 - Fix typescript definition to support ES6 imports
 
 ## 5.0.0
